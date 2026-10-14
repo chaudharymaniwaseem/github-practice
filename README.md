@@ -33,3 +33,6 @@ Visit http://localhost:5000 in your browser.
 - Push changes to GitHub.
 - Learn pull requests and merging.
 - Build and run a Docker container.
+
+## GitHub Practice
+This project is part of my DevOps practical preparation.
