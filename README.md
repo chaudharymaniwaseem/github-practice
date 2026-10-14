@@ -39,3 +39,6 @@ This project is part of my DevOps practical preparation.
 
 ## Feature Branch Practice
 Learning Git branches for DevOps.
+
+## Pull Request Practice
+Learning how to create a pull request on GitHub.
