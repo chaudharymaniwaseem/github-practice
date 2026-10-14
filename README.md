@@ -36,3 +36,6 @@ Visit http://localhost:5000 in your browser.
 
 ## GitHub Practice
 This project is part of my DevOps practical preparation.
+
+## Feature Branch Practice
+Learning Git branches for DevOps.
